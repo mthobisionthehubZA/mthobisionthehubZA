@@ -1,7 +1,7 @@
 [![MasterHead](https://safersocietygr.wpenginepowered.com/wp-content/uploads/2018/04/Gif-animation-hello.gif)](https://github.com/mthobisionthehubZA)
 
 <h1 align="center">Hi 👋, I'm Mthobisi Maseko</h1>
-<h3 align="center">A passionate software developer from, Durban South Africa</h3>
+<h3 align="center">A passionate software developer from Durban, South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mthobisionthehubza&label=Profile%20views&color=0e75b6&style=flat" alt="mthobisionthehubza" /> </p>
 
